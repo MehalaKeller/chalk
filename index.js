@@ -1,5 +1,3 @@
-console.log("hello world");
-
 const chalk = require('chalk');
 
 console.log(chalk.blue('CINDERELLA WALKED ON BROKEN GLASS'));
